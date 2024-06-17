@@ -4,7 +4,7 @@
 🌱 Currently learning [Docker and AWS].<br>
 <!--🤝 Looking to collaborate on [types of projects or areas of interest].<br> -->
 <!--💬 Ask me about [topics you have expertise in].<br> -->
-📫 How to reach me: [kevinmelendez3535@gmail.com] | [LinkedIn](https://www.www.linkedin.com/in/k3vmev).
+📫 How to reach me: [kevinmelendez3535@gmail.com] | [LinkedIn](https://www.www.linkedin.com/in/k3vmev/).
 
 ---
 
@@ -34,13 +34,13 @@
 - [Project 3](https://github.com/your-username/project-3): Brief description of the project.
 
 ---
--->
+
 
 ## 📅 Last 7 Days Coding Activity
 [![wakatime](https://wakatime.com/badge/user/K3vinMV.svg)](https://wakatime.com/@K3vinMV)
 
 ---
-
+-->
 ## 📈 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=K3vinMV&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
