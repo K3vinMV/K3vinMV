@@ -4,7 +4,7 @@
 🌱 Currently learning [Docker and AWS].<br>
 <!--🤝 Looking to collaborate on [types of projects or areas of interest].<br> -->
 <!--💬 Ask me about [topics you have expertise in].<br> -->
-📫 How to reach me: [kevinmelendez3535@gmail.com] | [LinkedIn](https://www.www.linkedin.com/in/k3vmev/).
+📫 How to reach me: [kevinmelendez3535@gmail.com] | [LinkedIn](https://www.linkedin.com/in/k3vmev/).
 
 ---
 
