@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Kevin Melendez (@K3vinMV).<br>
-💻 Software developer passionate about technology and continuous learning.<br>
+💻 Software developer student passionate about technology and continuous learning.<br>
 🌱 Currently learning [Docker and AWS].<br>
 <!--🤝 Looking to collaborate on [types of projects or areas of interest].<br> -->
 <!--💬 Ask me about [topics you have expertise in].<br> -->
