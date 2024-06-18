@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Kevin Melendez (@K3vinMV).<br>
 💻 Software developer student passionate about technology and continuous learning.<br>
-🌱 Currently learning [Docker and AWS].<br>
+🌱 Currently learning [AWS].<br>
 <!--🤝 Looking to collaborate on [types of projects or areas of interest].<br> -->
 <!--💬 Ask me about [topics you have expertise in].<br> -->
 📫 How to reach me: [kevinmelendez3535@gmail.com] | [LinkedIn](https://www.linkedin.com/in/k3vmev/).
@@ -10,10 +10,12 @@
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-<!--![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<!--![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 ---
 
 ## 📊 GitHub Stats:
