@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=K3vinMV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=K3vinMV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3vinMV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ---
 
 ## 🏆 GitHub Trophies
@@ -28,7 +28,7 @@
 
 ---
 
-<!--## 💡 Featured Projects:
+## 💡 Featured Projects:
 - [Project 1](https://github.com/your-username/project-1): Brief description of the project.
 - [Project 2](https://github.com/your-username/project-2): Brief description of the project.
 - [Project 3](https://github.com/your-username/project-3): Brief description of the project.
