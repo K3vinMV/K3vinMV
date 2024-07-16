@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Kevin Melendez (@K3vinMV).<br>
 💻 Computer science student passionate about technology and continuous learning.<br>
-🌱 Currently learning [AWS].<br>
+🌱 Currently learning [Docker].<br>
 <!--🤝 Looking to collaborate on [types of projects or areas of interest].<br> -->
 <!--💬 Ask me about [topics you have expertise in].<br> -->
 📫 How to reach me: [kevinmelendez3535@gmail.com] | [LinkedIn](https://www.linkedin.com/in/k3vmev/).
@@ -14,6 +14,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <!--![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 ---
