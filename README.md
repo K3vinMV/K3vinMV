@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Kevin Melendez (@K3vinMV).<br>
 💻 Computer science student passionate about technology and continuous learning.<br>
-🌱 Currently learning [Laravel].<br>
+🌱 Currently learning [Kubernetes].<br>
 <!--🤝 Looking to collaborate on [types of projects or areas of interest].<br> -->
 <!--💬 Ask me about [topics you have expertise in].<br> -->
 📫 How to reach me: [kevinmelendez3535@gmail.com] | [LinkedIn](https://www.linkedin.com/in/k3vmev/).
@@ -17,6 +17,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%F0%9F%8C%A7-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats:
